@@ -1,0 +1,22 @@
+{
+  "name": "vue-storybook-css-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".storybook/main.js",
+  "scripts": {
+    "start": "start-storybook -p 8080"
+  },
+  "dependencies": {
+    "@babel/core": "7.8.3",
+    "@storybook/vue": "5.3.6",
+    "babel-loader": "8.0.6",
+    "babel-preset-vue": "2.0.2",
+    "vue": "2.6.11",
+    "vue-loader": "15.8.3",
+    "vue-template-compiler": "2.6.11"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
